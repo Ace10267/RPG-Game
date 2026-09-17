@@ -1,2 +1,2 @@
 # RPG-Game
-third.space projectg
+third.space project
